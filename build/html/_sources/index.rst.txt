@@ -2,13 +2,32 @@
    sphinx-quickstart on Fri Feb 16 13:00:53 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+========================
+Welcome to NIVeT wiki!
+========================
 
-Welcome to NIVeTwiki's documentation!
-=====================================
+.. important::
+
+   NIVeTのwikiは、ベンダーから共有された脆弱性の対処法や理解を促すものです。
+   みなさんのコントリビューションをお待ちしています
+
+
+How to browse the wiki
+=======================
+製品ベンダーごとに製品の情報がまとめられています。
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :titlesonly:
+   
+   vendorlist/vendor
+   vendorlist/buffalo
+   vendorlist/cisco
+   vendorlist/netgeer
+
+How to Contribute to the wiki
+==============================
+このサイトはSphinxで作成されています。
+`NIVeT wikiに貢献する <https://github.com/aiueoyura05/wiki>`_.
 
 
 

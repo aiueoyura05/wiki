@@ -1,0 +1,10 @@
+製品ベンダー一覧
+================   
+
+.. toctree::
+    :caption: Buffalo
+    ./buffalo1
+
+.. toctree::
+    :caption: Cisco
+    ./cisco1

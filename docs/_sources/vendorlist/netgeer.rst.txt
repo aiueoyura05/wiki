@@ -1,4 +1,4 @@
-Quickstart
-==========
+Netgeer
+========
 
 1. Install this theme:

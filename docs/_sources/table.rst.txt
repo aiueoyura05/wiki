@@ -1,4 +1,4 @@
-Vendor List
+製品ベンダー情報
 =======================
 製品ベンダーごとに製品の情報がまとめられています。
 
@@ -7,5 +7,4 @@ Vendor List
     :glob:
 
     vendorlist/*
-How to Contribute to the wiki
-==============================
+

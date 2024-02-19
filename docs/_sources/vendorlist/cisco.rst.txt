@@ -1,4 +1,4 @@
-Quickstart
+Cisco
 ==========
 
 1. Install this theme:

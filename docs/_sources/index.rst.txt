@@ -19,6 +19,9 @@ How to browse the wiki
 
     ./table
 
+
+How to contribute
+==================
 このサイトはSphinxで作成されています。
 `NIVeT wikiに貢献する <https://github.com/aiueoyura05/wiki>`_.
 

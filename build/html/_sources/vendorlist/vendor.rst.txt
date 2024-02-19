@@ -1,0 +1,8 @@
+Menu
+==========
+
+.. toctree::
+   :titlesonly:
+   :glob:
+
+    *

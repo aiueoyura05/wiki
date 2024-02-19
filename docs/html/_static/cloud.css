@@ -200,7 +200,7 @@ body
 
     
         margin: 1em 1em 0;
-        background: #1A4162;
+        background: #111111;
         background-attachment: fixed;
     
 }
@@ -233,7 +233,7 @@ div.related
 {
     margin: 0 auto;
     max-width: 11.5in;
-    background: #5682AD;
+    background: #ee7800;
     line-height: 1.5em;
     padding: .75em 0;
     color: #ffffff;

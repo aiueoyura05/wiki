@@ -8,7 +8,7 @@ Welcome to NIVeT wiki!
 
 .. important::
 
-   NIVeTのwikiは、ベンダーから共有された脆弱性の対処法や理解を促すものです。だよ
+   NIVeTのwikiは、ベンダーから共有された脆弱性の対処法や理解を促すものです。
    みなさんのコントリビューションをお待ちしています
 
 
@@ -19,6 +19,9 @@ How to browse the wiki
 
     ./table
 
+
+How to contribute
+==================
 このサイトはSphinxで作成されています。
 `NIVeT wikiに貢献する <https://github.com/aiueoyura05/wiki>`_.
 

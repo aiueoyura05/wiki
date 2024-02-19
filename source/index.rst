@@ -13,19 +13,12 @@ Welcome to NIVeT wiki!
 
 
 How to browse the wiki
-=======================
-製品ベンダーごとに製品の情報がまとめられています。
-
+===========
 .. toctree::
-   :titlesonly:
-   
-   vendorlist/vendor
-   vendorlist/buffalo
-   vendorlist/cisco
-   vendorlist/netgeer
+    :titlesonly:
 
-How to Contribute to the wiki
-==============================
+    ./table
+
 このサイトはSphinxで作成されています。
 `NIVeT wikiに貢献する <https://github.com/aiueoyura05/wiki>`_.
 
